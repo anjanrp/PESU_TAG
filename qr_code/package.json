@@ -1,0 +1,18 @@
+{
+  "name": "nodeqr",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qr_code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.0",
+    "node": "^19.1.0",
+    "qrcode": "^1.5.1",
+    "requirejs": "^2.3.6"
+  }
+}
